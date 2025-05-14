@@ -1,1 +1,2 @@
 nombre de usuario y correo electrinico
+agregar direccion email
